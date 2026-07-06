@@ -20,9 +20,12 @@ authors:
     given-names: Denise M.
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
+  - family-names: Bailey
+    given-names: Jared
+    affiliation: "Northwest Missouri State University"
 
-repository-code: "https://github.com/denisecase/bintel-01-intro"
-url: "https://github.com/denisecase/bintel-01-intro"
+repository-code: "https://github.com/Babage1800/bintel-01-intro"
+url: "https://github.com/Babage1800/bintel-01-intro"
 license: MIT
 
 abstract: >

@@ -79,7 +79,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/bintel-01-intro
+git clone https://github.com/Babage1800/bintel-01-intro
 
 cd bintel-01-intro
 code .
@@ -161,7 +161,7 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 | INFO | BI | Executed successfully!
 | INFO | BI | ========================
 ```
-
+V
 ## Findings and Visuals
 
 Take screenshots of your charts and provide them here with a discussion.
